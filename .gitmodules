@@ -30,3 +30,7 @@
 	path = prasadAmi
 	url = https://github.com/AmitPr/mks65c-17_server.git
 	branch = master
+[submodule "ku-benjetJer"]
+	path = ku-benjetJer
+	url = https://github.com/jku20/mk65_17_server.git
+	branch = main
