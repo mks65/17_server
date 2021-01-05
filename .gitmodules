@@ -14,3 +14,7 @@
 	path = zhangDev
 	url = https://github.com/dzhang10/hw_17_server.git
 	branch = master
+[submodule "zhangAle"]
+	path = zhangAle
+	url = https://github.com/Kappachino-Latte/17_server_alex
+	branch = master
