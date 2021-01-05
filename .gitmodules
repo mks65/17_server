@@ -6,3 +6,7 @@
 	path = nathMic
 	url = https://github.com/Michael-Nath/mnath_server.git
 	branch = main
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/17_server.git
+	branch = main
