@@ -18,3 +18,7 @@
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/17_server_alex
 	branch = master
+[submodule "waldAle"]
+	path = waldAle
+	url = https://github.com/SashaWald/work_17.git
+	branch = main
