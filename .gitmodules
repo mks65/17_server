@@ -2,3 +2,7 @@
 	path = siuVic
 	url = https://github.com/vs2961/17_handshake_vs.git
 	branch = main
+[submodule "nathMic"]
+	path = nathMic
+	url = https://github.com/Michael-Nath/mnath_server.git
+	branch = main
