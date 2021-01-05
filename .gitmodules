@@ -10,3 +10,7 @@
 	path = yeGen
 	url = https://github.com/Gene1212/17_server.git
 	branch = main
+[submodule "zhangDev"]
+	path = zhangDev
+	url = https://github.com/dzhang10/hw_17_server.git
+	branch = master
