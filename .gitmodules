@@ -77,3 +77,7 @@
 	path = zhengYul
 	url = https://github.com/yzheng10/17_Server.git
 	branch = main
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/systems_17_server.git
+	branch = main
