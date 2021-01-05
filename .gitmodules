@@ -49,3 +49,7 @@
 	path = ahmedTah
 	url = https://github.com/TahsinAhmed13/17_server.git
 	branch = main
+[submodule "siniscalcoFra"]
+	path = siniscalcoFra
+	url = https://github.com/NopeSiniscalco/17_server_mks.git
+	branch = main
