@@ -26,3 +26,7 @@
 	path = hirotaEis
 	url = https://github.com/ei5uke/17_server_mks.git
 	branch = main
+[submodule "prasadAmi"]
+	path = prasadAmi
+	url = https://github.com/AmitPr/mks65c-17_server.git
+	branch = master
