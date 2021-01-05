@@ -69,3 +69,7 @@
 	path = chenJac
 	url = https://github.com/jchen2003/17_server_mks.git
 	branch = main
+[submodule "liSun"]
+	path = liSun
+	url = https://github.com/sunnyli13/Work17.git
+	branch = main
