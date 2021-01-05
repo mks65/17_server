@@ -65,3 +65,7 @@
 	path = yeCul
 	url = https://github.com/CullenLYe/work17_server.git
 	branch = main
+[submodule "chenJac"]
+	path = chenJac
+	url = https://github.com/jchen2003/17_server_mks.git
+	branch = main
