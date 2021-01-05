@@ -57,3 +57,7 @@
 	path = raoIva
 	url = https://github.com/irao12/systems_17_server
 	branch = main
+[submodule "ganHao"]
+	path = ganHao
+	url = https://github.com/haotianGan/17Server
+	branch = master
