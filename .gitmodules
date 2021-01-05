@@ -22,3 +22,7 @@
 	path = waldAle
 	url = https://github.com/SashaWald/work_17.git
 	branch = main
+[submodule "hirotaEis"]
+	path = hirotaEis
+	url = https://github.com/ei5uke/17_server_mks.git
+	branch = main
