@@ -61,3 +61,7 @@
 	path = ganHao
 	url = https://github.com/haotianGan/17Server
 	branch = master
+[submodule "yeCul"]
+	path = yeCul
+	url = https://github.com/CullenLYe/work17_server.git
+	branch = main
