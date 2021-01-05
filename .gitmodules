@@ -1,0 +1,4 @@
+[submodule "siuVic"]
+	path = siuVic
+	url = https://github.com/vs2961/17_handshake_vs.git
+	branch = main
