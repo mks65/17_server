@@ -34,3 +34,6 @@
 	path = ku-benjetJer
 	url = https://github.com/jku20/mk65_17_server.git
 	branch = main
+[submodule "hathawayMay"]
+	path = hathawayMay
+	url = https://github.com/mayhathaway/systems-17.git
