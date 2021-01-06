@@ -89,3 +89,7 @@
 	path = leeSte
 	url = https://github.com/kevidgel/17_server
 	branch = main
+[submodule "misquittaKri"]
+	path = misquittaKri
+	url = https://github.com/Kristoff1318/Work_17.git
+	branch = main
