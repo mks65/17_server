@@ -85,3 +85,7 @@
 	path = zhangJin
 	url = https://github.com/Jinzxc/17_server_J.git
 	branch = main
+[submodule "leeSte"]
+	path = leeSte
+	url = https://github.com/kevidgel/17_server
+	branch = main
