@@ -93,3 +93,7 @@
 	path = misquittaKri
 	url = https://github.com/Kristoff1318/Work_17.git
 	branch = main
+[submodule "zhouKel"]
+	path = zhouKel
+	url = https://github.com/KellyZhou223/17server.git
+	branch = main
