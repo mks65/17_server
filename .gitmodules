@@ -97,3 +97,7 @@
 	path = zhouKel
 	url = https://github.com/KellyZhou223/17server.git
 	branch = main
+[submodule "jiangVin"]
+	path = jiangVin
+	url = https://github.com/vjiang10/17_server_vj.git
+	branch = master
