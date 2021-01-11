@@ -105,3 +105,7 @@
 	path = huMic
 	url = https://github.com/GuessHuIAm/hw17_server
 	branch = master
+[submodule "linLei"]
+	path = linLei
+	url = https://github.com/llin11/17_server.git
+	branch = main
