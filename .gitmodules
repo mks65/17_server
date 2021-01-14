@@ -109,3 +109,7 @@
 	path = linLei
 	url = https://github.com/llin11/17_server.git
 	branch = main
+[submodule "hamzahMoh"]
+	path = hamzahMoh
+	url = https://github.com/ForestDweller014/17_server
+	branch = main
