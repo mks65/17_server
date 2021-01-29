@@ -113,3 +113,7 @@
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/17_server
 	branch = main
+[submodule "chanSer"]
+	path = chanSer
+	url = https://github.com/schan11/17server.git
+	branch = master
